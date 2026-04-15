@@ -1,94 +1,40 @@
-<div align="center">
-
-<!-- Animated Gradient Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=600&size=50&duration=1&pause=9999&color=9BBF8F&center=true&vCenter=true&repeat=false&width=800&height=100&lines=✧+Meryem+Ahmaine+✧" alt="Title" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Kalam&size=20&duration=3000&pause=800&color=E8C468&center=true&vCenter=true&width=700&height=80&lines=%F0%9F%8D%83+where+the+spirit+forest+meets+the+keyboard;%E2%9C%A7+code+that+drifts+like+dandelion+seeds;%F0%9F%8C%99+every+bug+is+just+a+kodama+in+disguise;%F0%9F%8C%BC+building+dreams+one+commit+at+a+time" alt="Typing Animation" />
-
 </div>
-
-<br/>
-
-<!-- STUDIO GHIBLI VIDEO BACKGROUND SECTION -->
+<!-- Animated Divider with Ghibli GIF --><div align="center"> <img src="https://media1.tenor.com/m/eFulh3X0VNsAAAAC/ghibli-soot.gif" width="400" alt="Soot sprites animation"/> <br/> <sub>✦ susuwatari — the soot sprites are helping ✦</sub> </div>
 <div align="center">
-  
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td align="center" valign="middle">
-        
-  <!-- Video 1: Spirited Away - Train Scene -->
-  <video width="560" height="315" autoplay loop muted playsinline>
-    <source src="https://files.catbox.moe/8xq3w2.mp4" type="video/mp4">
-    <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="560">
-  </video>
-  <br/>
-  <sub>✦ spirited away — the train to nowhere ✦</sub>
-  
-      </td>
-      <td align="center" valign="middle">
-        
-  <!-- Video 2: Howl's Moving Castle - Flower Field -->
-  <video width="560" height="315" autoplay loop muted playsinline>
-    <source src="https://files.catbox.moe/6xq4w8.mp4" type="video/mp4">
-    <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="560">
-  </video>
-  <br/>
-  <sub>✦ howl's moving castle — the meadow of flowers ✦</sub>
-  
-      </td>
-    </tr>
-  </table>
-  
+✦ spirits of the stack ✦
+</div><div align="center">
+— frontend incantations —
+
+<img src="https://img.shields.io/badge/React-2D3E2F?style=for-the-badge&logo=react&logoColor=9BBF8F"/> <img src="https://img.shields.io/badge/JavaScript-2D3E2F?style=for-the-badge&logo=javascript&logoColor=E8C468"/> <img src="https://img.shields.io/badge/Tailwind-2D3E2F?style=for-the-badge&logo=tailwind-css&logoColor=7EB2A6"/> <img src="https://img.shields.io/badge/HTML5-2D3E2F?style=for-the-badge&logo=html5&logoColor=E8A468"/> <img src="https://img.shields.io/badge/CSS3-2D3E2F?style=for-the-badge&logo=css3&logoColor=7BA6C4"/> <img src="https://img.shields.io/badge/Figma-2D3E2F?style=for-the-badge&logo=figma&logoColor=E8A4A4"/>
+— backend enchantments —
+
+<img src="https://img.shields.io/badge/Laravel-3D2E2A?style=for-the-badge&logo=laravel&logoColor=E8A468"/> <img src="https://img.shields.io/badge/PHP-3D2E2A?style=for-the-badge&logo=php&logoColor=9BBF8F"/> <img src="https://img.shields.io/badge/Node.js-3D2E2A?style=for-the-badge&logo=node.js&logoColor=7EB2A6"/> <img src="https://img.shields.io/badge/Inertia-3D2E2A?style=for-the-badge&logoColor=E8C468"/> <img src="https://img.shields.io/badge/Java-3D2E2A?style=for-the-badge&logo=openjdk&logoColor=E8A468"/>
+— crystal databases —
+
+<img src="https://img.shields.io/badge/MySQL-2A2E3D?style=for-the-badge&logo=mysql&logoColor=7BA6C4"/> <img src="https://img.shields.io/badge/MongoDB-2A2E3D?style=for-the-badge&logo=mongodb&logoColor=7EB2A6"/> <img src="https://img.shields.io/badge/Oracle-2A2E3D?style=for-the-badge&logo=oracle&logoColor=E8A468"/>
+— tools of the trade —
+
+<img src="https://img.shields.io/badge/Git-3D2A2A?style=for-the-badge&logo=git&logoColor=E8A468"/> <img src="https://img.shields.io/badge/Docker-3D2A2A?style=for-the-badge&logo=docker&logoColor=7BA6C4"/> <img src="https://img.shields.io/badge/Postman-3D2A2A?style=for-the-badge&logo=postman&logoColor=E8A468"/></div>
+<!-- Totoro GIF Section --><div align="center"> <img src="https://media1.tenor.com/m/0-xiN6PAW2gAAAAC/totoro-ghibli.gif" width="500" alt="Totoro animation"/> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MeryemAhmaine&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=9BBF8F&icon_color=E8C468&text_color=C4A77D&ring_color=7EB2A6" height="165"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeryemAhmaine&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=9BBF8F&text_color=C4A77D" height="165"/><br/> <br/><img src="https://github-readme-streak-stats.herokuapp.com?user=MeryemAhmaine&theme=dark&hide_border=true&background=0D1117&ring=9BBF8F&fire=E8C468&currStreakLabel=9BBF8F&sideLabels=C4A77D&dates=7BA6C4" width="500"/></div>
+<!-- Haku Dragon Animation --><div align="center"> <img src="https://media1.tenor.com/m/qrTQZdrb_XYAAAAC/haku-dragon.gif" width="500" alt="Haku dragon animation"/> <br/> <sub>✦ haku — the spirit of the kohaku river ✦</sub> </div>
+<div align="center">
+✦ scrolls of mastery ✦
+</div><div align="center">
+🌿 Responsive Web Design  ⊹  🍂 Angular & Python  ⊹  🍁 Node.js  ⊹  🍃 MongoDB
+
+<div align="center"> <sub>freeCodeCamp ✦ SoloLearn ✦ Simplilearn ✦ MongoDB University</sub> </div></div>
+<!-- No-Face GIF --><div align="center"> <img src="https://media1.tenor.com/m/YS0f4dEbnnEAAAAC/no-face-kaonashi.gif" width="300" alt="No Face animation"/> <br/> <sub>✦ kaonashi — silent and watching over the code ✦</sub> </div>
+<div align="center">
+✦ current journey ✦
+</div><div align="center">
+text
+🌊 learning the ancient arts of Java & J2EE
+🍃 mastering design patterns like a true sorcerer
+⭐ open to collaborate on magical projects
+🕯️ currently reading: "Clean Code" by Robert Martin
+🎐 listening to: Joe Hisaishi — One Summer's Day
 </div>
-
-<br/>
-
-<!-- Alternative: Single Cinematic Background Video -->
-<div align="center">
-  
-  <!-- Princess Mononoke - Forest Spirit Scene -->
-  <video width="800" autoplay loop muted playsinline style="border-radius: 24px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-    <source src="https://files.catbox.moe/9xq5w6.mp4" type="video/mp4">
-    <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="800">
-  </video>
-  <br/>
-  <sub>✦ princess mononoke — the forest spirit emerges ✦</sub>
-  
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8D%81%20digital%20garden-2D3E2F?style=flat-square)](https://meryemahmaine.netlify.app/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%8C%8A%20whispers-2D3E2F?style=flat-square)](https://www.linkedin.com/in/meryem-ahmaine-aa76a728b/)
-&nbsp;
-[![Email](https://img.shields.io/badge/%F0%9F%8D%81%20send%20a%20letter-2D3E2F?style=flat-square)](mailto:meryemahmaine@gmail.com)
-
-</div>
-
-<br/>
-
-<!-- Animated Profile Card -->
-<div align="center">
-  
-```javascript
-// 🌙 * a quiet morning in the code forest * 🌙
-
-const meryem = {
-  essence     : "web developer & digital daydreamer",
-  dwelling    : "🏔️ casablanca, morocco — where atlas meets the sea",
-  studying    : "🌱 software engineering @ estem (graduation: 2026)",
-  learning    : ["java", "j2ee", "design patterns", "the art of patience"],
-  seeking     : "⭐ kindred spirits & enchanted projects",
-  whisper     : "meryemahmaine@gmail.com",
-  favorite_films : [
-    "spirited away", 
-    "howl's moving castle", 
-    "princess mononoke",
-    "my neighbor totoro"
-  ]
-};
-
-// today's mood: coding while it rains ☔️
+<!-- Contribution Graph --><div align="center"> <img src="https://ghchart.rshah.org/MeryemAhmaine" alt="GitHub Contribution Chart" style="background-color: #0D1117; border-radius: 12px;"/> <br/> <sub>✦ each leaf is a story told ✦</sub> </div>
+<!-- Kodama Family --><div align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21kYzVvbTF5OG0xbHkxM3pxMHV1aXQ5a2Nsa29scDU1ZzZmaWU4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5T9tFZm6GWojkBeHI/giphy.gif" width="70"/> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21kYzVvbTF5OG0xbHkxM3pxMHV1aXQ5a2Nsa29scDU1ZzZmaWU4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5T9tFZm6GWojkBeHI/giphy.gif" width="70"/> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21kYzVvbTF5OG0xbHkxM3pxMHV1aXQ5a2Nsa29scDU1ZzZmaWU4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5T9tFZm6GWojkBeHI/giphy.gif" width="70"/> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21kYzVvbTF5OG0xbHkxM3pxMHV1aXQ5a2Nsa29scDU1ZzZmaWU4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5T9tFZm6GWojkBeHI/giphy.gif" width="70"/> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21kYzVvbTF5OG0xbHkxM3pxMHV1aXQ5a2Nsa29scDU1ZzZmaWU4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5T9tFZm6GWojkBeHI/giphy.gif" width="70"/> <br/> <sub>✦ the kodama are blessing your code ✦</sub> </div>
+<!-- Animated Footer --><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,20,24,30&height=100&section=footer&animation=fadeIn" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Kalam&size=14&duration=4000&pause=1000&color=E8C468&center=true&vCenter=true&width=500&lines=%22let+the+code+bloom+like+wildflowers%22;%22even+the+smallest+bug+has+a+soul%22;%22may+your+commits+be+peaceful%22;%22the+spirit+forest+is+watching%22" alt="Footer Quote" /> <br/> <img src="https://komarev.com/ghpvc/?username=MeryemAhmaine&color=9BBF8F&style=flat-square&label=wandering+souls+who+passed+by"/> <br/> <br/> <!-- Calcifer Animation --> <img src="https://media1.tenor.com/m/NvwCmzx8QlIAAAAC/calcifer-howl.gif" width="50"/> <sub>calcifer says: "may your code never catch fire" 🔥</sub> <img src="https://media1.tenor.com/m/NvwCmzx8QlIAAAAC/calcifer-howl.gif" width="50"/></div>
