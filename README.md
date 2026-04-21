@@ -1,8 +1,4 @@
 
-
-
-
-
 ## 🌸 about me
 
 ```typescript
