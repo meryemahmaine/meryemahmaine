@@ -1,40 +1,180 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19,20,21&height=200&section=header&text=Meryem%20Ahmaine&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=full-stack%20developer%20%E2%9C%A8%20casablanca&descAlignY=60&descAlign=50" width="100%"/>
+
 </div>
-<!-- Animated Divider with Ghibli GIF --><div align="center"> <img src="https://media1.tenor.com/m/eFulh3X0VNsAAAAC/ghibli-soot.gif" width="400" alt="Soot sprites animation"/> <br/> <sub>✦ susuwatari — the soot sprites are helping ✦</sub> </div>
+
 <div align="center">
-✦ spirits of the stack ✦
-</div><div align="center">
-— frontend incantations —
-
-<img src="https://img.shields.io/badge/React-2D3E2F?style=for-the-badge&logo=react&logoColor=9BBF8F"/> <img src="https://img.shields.io/badge/JavaScript-2D3E2F?style=for-the-badge&logo=javascript&logoColor=E8C468"/> <img src="https://img.shields.io/badge/Tailwind-2D3E2F?style=for-the-badge&logo=tailwind-css&logoColor=7EB2A6"/> <img src="https://img.shields.io/badge/HTML5-2D3E2F?style=for-the-badge&logo=html5&logoColor=E8A468"/> <img src="https://img.shields.io/badge/CSS3-2D3E2F?style=for-the-badge&logo=css3&logoColor=7BA6C4"/> <img src="https://img.shields.io/badge/Figma-2D3E2F?style=for-the-badge&logo=figma&logoColor=E8A4A4"/>
-— backend enchantments —
-
-<img src="https://img.shields.io/badge/Laravel-3D2E2A?style=for-the-badge&logo=laravel&logoColor=E8A468"/> <img src="https://img.shields.io/badge/PHP-3D2E2A?style=for-the-badge&logo=php&logoColor=9BBF8F"/> <img src="https://img.shields.io/badge/Node.js-3D2E2A?style=for-the-badge&logo=node.js&logoColor=7EB2A6"/> <img src="https://img.shields.io/badge/Inertia-3D2E2A?style=for-the-badge&logoColor=E8C468"/> <img src="https://img.shields.io/badge/Java-3D2E2A?style=for-the-badge&logo=openjdk&logoColor=E8A468"/>
-— crystal databases —
-
-<img src="https://img.shields.io/badge/MySQL-2A2E3D?style=for-the-badge&logo=mysql&logoColor=7BA6C4"/> <img src="https://img.shields.io/badge/MongoDB-2A2E3D?style=for-the-badge&logo=mongodb&logoColor=7EB2A6"/> <img src="https://img.shields.io/badge/Oracle-2A2E3D?style=for-the-badge&logo=oracle&logoColor=E8A468"/>
-— tools of the trade —
-
-<img src="https://img.shields.io/badge/Git-3D2A2A?style=for-the-badge&logo=git&logoColor=E8A468"/> <img src="https://img.shields.io/badge/Docker-3D2A2A?style=for-the-badge&logo=docker&logoColor=7BA6C4"/> <img src="https://img.shields.io/badge/Postman-3D2A2A?style=for-the-badge&logo=postman&logoColor=E8A468"/></div>
-<!-- Totoro GIF Section --><div align="center"> <img src="https://media1.tenor.com/m/0-xiN6PAW2gAAAAC/totoro-ghibli.gif" width="500" alt="Totoro animation"/> </div>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MeryemAhmaine&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=9BBF8F&icon_color=E8C468&text_color=C4A77D&ring_color=7EB2A6" height="165"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeryemAhmaine&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=9BBF8F&text_color=C4A77D" height="165"/><br/> <br/><img src="https://github-readme-streak-stats.herokuapp.com?user=MeryemAhmaine&theme=dark&hide_border=true&background=0D1117&ring=9BBF8F&fire=E8C468&currStreakLabel=9BBF8F&sideLabels=C4A77D&dates=7BA6C4" width="500"/></div>
-<!-- Haku Dragon Animation --><div align="center"> <img src="https://media1.tenor.com/m/qrTQZdrb_XYAAAAC/haku-dragon.gif" width="500" alt="Haku dragon animation"/> <br/> <sub>✦ haku — the spirit of the kohaku river ✦</sub> </div>
-<div align="center">
-✦ scrolls of mastery ✦
-</div><div align="center">
-🌿 Responsive Web Design  ⊹  🍂 Angular & Python  ⊹  🍁 Node.js  ⊹  🍃 MongoDB
-
-<div align="center"> <sub>freeCodeCamp ✦ SoloLearn ✦ Simplilearn ✦ MongoDB University</sub> </div></div>
-<!-- No-Face GIF --><div align="center"> <img src="https://media1.tenor.com/m/YS0f4dEbnnEAAAAC/no-face-kaonashi.gif" width="300" alt="No Face animation"/> <br/> <sub>✦ kaonashi — silent and watching over the code ✦</sub> </div>
-<div align="center">
-✦ current journey ✦
-</div><div align="center">
-text
-🌊 learning the ancient arts of Java & J2EE
-🍃 mastering design patterns like a true sorcerer
-⭐ open to collaborate on magical projects
-🕯️ currently reading: "Clean Code" by Robert Martin
-🎐 listening to: Joe Hisaishi — One Summer's Day
+  <img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=28&duration=3000&pause=800&color=E8A4C8&center=true&vCenter=true&width=500&lines=%F0%9F%8C%B8+building+beautiful+things+%F0%9F%8C%B8;%F0%9F%A6%8B+laravel+%2B+react+%2B+inertia.js;%F0%9F%8C%B7+final+year+at+ESTEM+%E2%9C%A8;%F0%9F%8D%AC+turning+ideas+into+products" alt="Typing SVG" />
 </div>
-<!-- Contribution Graph --><div align="center"> <img src="https://ghchart.rshah.org/MeryemAhmaine" alt="GitHub Contribution Chart" style="background-color: #0D1117; border-radius: 12px;"/> <br/> <sub>✦ each leaf is a story told ✦</sub> </div>
-<!-- Kodama Family --><div align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21kYzVvbTF5OG0xbHkxM3pxMHV1aXQ5a2Nsa29scDU1ZzZmaWU4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5T9tFZm6GWojkBeHI/giphy.gif" width="70"/> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21kYzVvbTF5OG0xbHkxM3pxMHV1aXQ5a2Nsa29scDU1ZzZmaWU4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5T9tFZm6GWojkBeHI/giphy.gif" width="70"/> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21kYzVvbTF5OG0xbHkxM3pxMHV1aXQ5a2Nsa29scDU1ZzZmaWU4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5T9tFZm6GWojkBeHI/giphy.gif" width="70"/> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21kYzVvbTF5OG0xbHkxM3pxMHV1aXQ5a2Nsa29scDU1ZzZmaWU4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5T9tFZm6GWojkBeHI/giphy.gif" width="70"/> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21kYzVvbTF5OG0xbHkxM3pxMHV1aXQ5a2Nsa29scDU1ZzZmaWU4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5T9tFZm6GWojkBeHI/giphy.gif" width="70"/> <br/> <sub>✦ the kodama are blessing your code ✦</sub> </div>
-<!-- Animated Footer --><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,20,24,30&height=100&section=footer&animation=fadeIn" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Kalam&size=14&duration=4000&pause=1000&color=E8C468&center=true&vCenter=true&width=500&lines=%22let+the+code+bloom+like+wildflowers%22;%22even+the+smallest+bug+has+a+soul%22;%22may+your+commits+be+peaceful%22;%22the+spirit+forest+is+watching%22" alt="Footer Quote" /> <br/> <img src="https://komarev.com/ghpvc/?username=MeryemAhmaine&color=9BBF8F&style=flat-square&label=wandering+souls+who+passed+by"/> <br/> <br/> <!-- Calcifer Animation --> <img src="https://media1.tenor.com/m/NvwCmzx8QlIAAAAC/calcifer-howl.gif" width="50"/> <sub>calcifer says: "may your code never catch fire" 🔥</sub> <img src="https://media1.tenor.com/m/NvwCmzx8QlIAAAAC/calcifer-howl.gif" width="50"/></div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/eFulh3X0VNsAAAAC/ghibli-soot.gif" width="350" alt="Soot sprites"/>
+  <br/>
+  <sub>✦ susuwatari helping me debug at 2am ✦</sub>
+</div>
+
+---
+
+## 🌸 about me
+
+```typescript
+const meryem = {
+  name     : "Meryem Ahmaine",
+  role     : "Full-Stack Web Developer 🌺",
+  school   : "ESTEM School · Casablanca · 2026 🎓",
+  stack    : ["Laravel", "React", "Inertia.js"],
+  building : ["CyphX Klian 🏢", "Chabiba Parfums 🌹"],
+  vibe     : "turning coffee into clean code ☕",
+  fun_fact : "I name my variables after flowers 🌷",
+};
+```
+
+---
+
+## 🌷 spirits of the stack
+
+<div align="center">
+
+**— frontend enchantments —**
+
+![React](https://img.shields.io/badge/React-%23ffd6e7?style=for-the-badge&logo=react&logoColor=d4679a)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23fff0f6?style=for-the-badge&logo=javascript&logoColor=d4679a)
+![Tailwind](https://img.shields.io/badge/Tailwind-%23fde8f5?style=for-the-badge&logo=tailwind-css&logoColor=b06aa0)
+![HTML5](https://img.shields.io/badge/HTML5-%23ffebf5?style=for-the-badge&logo=html5&logoColor=c96b8a)
+![CSS3](https://img.shields.io/badge/CSS3-%23fde8f5?style=for-the-badge&logo=css3&logoColor=9b7bb5)
+![Figma](https://img.shields.io/badge/Figma-%23f5e6f7?style=for-the-badge&logo=figma&logoColor=c178b5)
+
+**— backend magic —**
+
+![Laravel](https://img.shields.io/badge/Laravel-%23ffe4e8?style=for-the-badge&logo=laravel&logoColor=d4546a)
+![PHP](https://img.shields.io/badge/PHP-%23ede8fc?style=for-the-badge&logo=php&logoColor=9b7bb5)
+![Node.js](https://img.shields.io/badge/Node.js-%23e8f5e8?style=for-the-badge&logo=node.js&logoColor=5c9e6e)
+![Inertia](https://img.shields.io/badge/Inertia.js-%23fde8f5?style=for-the-badge&logoColor=b06aa0)
+![Java](https://img.shields.io/badge/Java-%23ffe8e8?style=for-the-badge&logo=openjdk&logoColor=c96b6b)
+
+**— crystal databases —**
+
+![MySQL](https://img.shields.io/badge/MySQL-%23e8f0fc?style=for-the-badge&logo=mysql&logoColor=6b8dc9)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23e8f5e8?style=for-the-badge&logo=mongodb&logoColor=5c9e6e)
+![Oracle](https://img.shields.io/badge/Oracle-%23ffe4e8?style=for-the-badge&logo=oracle&logoColor=d4546a)
+
+**— tools of the trade —**
+
+![Git](https://img.shields.io/badge/Git-%23ffe4e8?style=for-the-badge&logo=git&logoColor=c96b6b)
+![Docker](https://img.shields.io/badge/Docker-%23e8f0fc?style=for-the-badge&logo=docker&logoColor=6b8dc9)
+![Postman](https://img.shields.io/badge/Postman-%23ffe8e0?style=for-the-badge&logo=postman&logoColor=c98b5c)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/0-xiN6PAW2gAAAAC/totoro-ghibli.gif" width="400" alt="Totoro"/>
+</div>
+
+---
+
+## 🌺 github stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=MeryemAhmaine&show_icons=true&hide_border=true&bg_color=fff0f6&title_color=d4679a&icon_color=b06aa0&text_color=7a4a6b&ring_color=e8a4c8" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeryemAhmaine&layout=compact&hide_border=true&bg_color=fff0f6&title_color=d4679a&text_color=7a4a6b" height="165"/>
+
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MeryemAhmaine&hide_border=true&background=FFF0F6&ring=D4679A&fire=E8A4C8&currStreakLabel=D4679A&sideLabels=7A4A6B&dates=B06AA0" width="500"/>
+
+</div>
+
+---
+
+## 🌸 currently building
+
+<div align="center">
+
+| project | description | stack |
+|--------|-------------|-------|
+| 🏢 **CyphX Klian** | Commercial management platform for Moroccan SMEs | Laravel · React · Inertia.js |
+| 🌹 **Chabiba Parfums** | Moroccan perfume e-commerce with admin & customer portal | Laravel 11 · React · Inertia.js |
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/qrTQZdrb_XYAAAAC/haku-dragon.gif" width="450" alt="Haku dragon"/>
+  <br/>
+  <sub>✦ haku — the spirit of the kohaku river ✦</sub>
+</div>
+
+---
+
+## ✨ scrolls of mastery
+
+<div align="center">
+
+🌸 Responsive Web Design &nbsp;⊹&nbsp; 🌿 Angular & Python &nbsp;⊹&nbsp; 🌺 Node.js &nbsp;⊹&nbsp; 🍃 MongoDB
+
+<sub>freeCodeCamp ✦ SoloLearn ✦ Simplilearn ✦ MongoDB University</sub>
+
+</div>
+
+---
+
+## 🌷 currently in my world
+
+```
+🌊 conquering Java & J2EE for uni
+🏗️ building CyphX Klian for PFE 2026
+🌹 growing Chabiba Parfums one commit at a time
+📖 reading: "Clean Code" — Robert Martin
+🎶 listening: Joe Hisaishi — One Summer's Day
+✨ goal: graduate & land dream job
+```
+
+---
+
+## 🌸 let's connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23ffd6e7?style=for-the-badge&logo=safari&logoColor=d4679a)](https://meryemahmaine.netlify.app)
+[![Gmail](https://img.shields.io/badge/Email-%23ffe4e8?style=for-the-badge&logo=gmail&logoColor=d4546a)](mailto:meryemahmaine@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23f5e6f7?style=for-the-badge&logo=github&logoColor=7a4a6b)](https://github.com/MeryemAhmaine)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21kYzVvbTF5OG0xbHkxM3pxMHV1aXQ5a2Nsa29scDU1ZzZmaWU4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5T9tFZm6GWojkBeHI/giphy.gif" width="60"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21kYzVvbTF5OG0xbHkxM3pxMHV1aXQ5a2Nsa29scDU1ZzZmaWU4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5T9tFZm6GWojkBeHI/giphy.gif" width="60"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21kYzVvbTF5OG0xbHkxM3pxMHV1aXQ5a2Nsa29scDU1ZzZmaWU4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5T9tFZm6GWojkBeHI/giphy.gif" width="60"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21kYzVvbTF5OG0xbHkxM3pxMHV1aXQ5a2Nsa29scDU1ZzZmaWU4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5T9tFZm6GWojkBeHI/giphy.gif" width="60"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21kYzVvbTF5OG0xbHkxM3pxMHV1aXQ5a2Nsa29scDU1ZzZmaWU4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5T9tFZm6GWojkBeHI/giphy.gif" width="60"/>
+<br/>
+<sub>✦ the kodama are blessing your repos ✦</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19,20,21&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=18&duration=4000&pause=1000&color=E8A4C8&center=true&vCenter=true&width=500&lines=%22let+the+code+bloom+like+wildflowers%22+%F0%9F%8C%B8;%22even+the+smallest+bug+has+a+soul%22+%F0%9F%90%9B;%22may+your+commits+be+peaceful%22+%E2%9C%A8;%22the+spirit+forest+is+watching%22+%F0%9F%8C%BF" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MeryemAhmaine&color=e8a4c8&style=flat-square&label=wandering+souls+who+passed+by)
+
+<br/>
+
+<img src="https://media1.tenor.com/m/NvwCmzx8QlIAAAAC/calcifer-howl.gif" width="50"/>
+&nbsp; <sub>calcifer says: "may your PRs never conflict" 🔥</sub> &nbsp;
+<img src="https://media1.tenor.com/m/NvwCmzx8QlIAAAAC/calcifer-howl.gif" width="50"/>
+
+</div>
