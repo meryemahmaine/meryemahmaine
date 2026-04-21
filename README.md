@@ -1,14 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19,20,21&height=200&section=header&text=Meryem%20Ahmaine&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=full-stack%20developer%20%E2%9C%A8%20casablanca&descAlignY=60&descAlign=50" width="100%"/>
-
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=28&duration=3000&pause=800&color=E8A4C8&center=true&vCenter=true&width=500&lines=%F0%9F%8C%B8+building+beautiful+things+%F0%9F%8C%B8;%F0%9F%A6%8B+laravel+%2B+react+%2B+inertia.js;%F0%9F%8C%B7+final+year+at+ESTEM+%E2%9C%A8;%F0%9F%8D%AC+turning+ideas+into+products" alt="Typing SVG" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://media1.tenor.com/m/eFulh3X0VNsAAAAC/ghibli-soot.gif" width="350" alt="Soot sprites"/>
@@ -88,19 +78,6 @@ const meryem = {
   <br/><br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MeryemAhmaine&hide_border=true&background=FFF0F6&ring=D4679A&fire=E8A4C8&currStreakLabel=D4679A&sideLabels=7A4A6B&dates=B06AA0" width="500"/>
-
-</div>
-
----
-
-## 🌸 currently building
-
-<div align="center">
-
-| project | description | stack |
-|--------|-------------|-------|
-| 🏢 **CyphX Klian** | Commercial management platform for Moroccan SMEs | Laravel · React · Inertia.js |
-| 🌹 **Chabiba Parfums** | Moroccan perfume e-commerce with admin & customer portal | Laravel 11 · React · Inertia.js |
 
 </div>
 
