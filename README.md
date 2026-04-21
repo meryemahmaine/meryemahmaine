@@ -1,12 +1,7 @@
 
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/eFulh3X0VNsAAAAC/ghibli-soot.gif" width="350" alt="Soot sprites"/>
-  <br/>
-  <sub>✦ susuwatari helping me debug at 2am ✦</sub>
-</div>
 
----
+
 
 ## 🌸 about me
 
